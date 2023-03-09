@@ -1,0 +1,9 @@
+{
+	"name": "mdwdops-adf-dev-12345",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f511c032-9816-4a40-9fac-716377b1506f",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
